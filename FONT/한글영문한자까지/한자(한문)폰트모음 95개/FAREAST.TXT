@@ -1,0 +1,63 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Font: Far East (fareast.ttf)
+Created By: Matthew Welch
+E-Mail: daffy-duck@worldnet.att.net
+Web Address: http://home.att.net/~daffy-duck
+             (PGP public key available here)
+
+Far East, like all of my fonts, is free.  You can use it for any
+personal or business uses you'd like, and I ask for no money.  I
+would, however, like to hear from you.  If you use my fonts for
+something please send me a postcard or e-mail letting me know how
+you used it.  Send me a copy if you can or let me know where I can
+find your work.
+
+If you use this font for commercial purposes please credit me in
+at least some little way.
+
+About the font:
+
+Amaze your friends.  Astound people with your linguistic Acumen.
+Explain to them that on a recent trip to the far east you discovered
+the secret of easily understanding this writing.  Then simply tilt
+your head to the left and read it plain as day.
+
+You see, this font is really just the Latin alphabet made to look
+like an exotic far east script and tilted on its side.  Use all caps
+to achieve this effect and write your text vertically, from bottom
+to top.  For instance, if you wanted your text to say "your name
+here" you would write it like this:
+
+R E E
+U M R
+O A E
+Y N H
+
+This font is not strictly a monospace font, but all the characters
+are the same width except for the space, which is half the width.
+Using '\' will produce a full sized space.
+
+This font can also be written out horizontally, which is easier for
+graphics programs or if you just want to write with this font
+normally.  But what fun would that be?  The right side up characters
+are the lower case.
+
+Numbers are available also.  The actual numbers are right-side-up.
+The sideways ones are the symbols for each number key.  It's the
+shifted number, kind of like a capital letter, see.
+
+)!@#$%^&*(
+0123456789
+
+
+
+-----BEGIN PGP SIGNATURE-----
+Version: PGP for Personal Privacy 5.0
+Charset: noconv
+
+iQA/AwUBNZBIV+EM8BJ4ZA+2EQKOTwCfdBgEI2Y2gQYwEKFikOme/JUmfeYAn0ZD
+vcOPCAb1OVqtKf5ZGcWER2e/
+=LpHH
+-----END PGP SIGNATURE-----
